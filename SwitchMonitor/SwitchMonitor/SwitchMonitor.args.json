@@ -1,0 +1,14 @@
+{
+  "FileVersion": 2,
+  "Id": "9744d20e-43ae-4f66-8396-d120b581e089",
+  "Items": [
+    {
+      "Id": "c7629a10-510e-49a9-b11a-9320d383cdb5",
+      "Command": "list"
+    },
+    {
+      "Id": "4dc36867-71da-4267-a441-523f1bc65095",
+      "Command": "switch 1 03"
+    }
+  ]
+}
